@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  WirelessScan
+
+  Created by SonopTek on 15/4/19.
+  Copyright (c) 2015年 SweetGan. All rights reserved.
+ 
+*/
+CFBundleDisplayName = "无线线阵-128";
